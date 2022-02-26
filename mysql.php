@@ -13,11 +13,11 @@ bash command not found
 $ notepad++
 	-> opens notepad++ editor
 	
-#############################################################################################
-# 					|	-- 	LOCAL --	 |					#	-- REMOTE --				#
-#	Working Area	|	Staging Area	 | Repository Ares	#	  git hub					#
-#					|	(Inded Area)	 | .git Floder		#								#	
-#############################################################################################
+#################################################################################################################################
+# 			|	-- 	LOCAL --	|			#	-- REMOTE --				#
+#	Working Area	|	Staging Area	 	| Repository Ares	#	  git hub				#
+#			|	(Inded Area)	 	| .git Floder		#						#	
+#################################################################################################################################
 
 ### Regular Commands ###
 $ cd
@@ -55,3 +55,4 @@ $ git diff
 $ git diff --staged
 
 
+WE are waiting for next update
