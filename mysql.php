@@ -55,4 +55,4 @@ $ git diff
 $ git diff --staged
 
 
-WE are waiting for next update............
+WE are waiting for next update
